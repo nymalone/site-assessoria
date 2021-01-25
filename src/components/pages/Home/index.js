@@ -26,7 +26,7 @@ export default function Home() {
             <p>Atividades complementares para alunos de cursos presenciais e EAD.</p>
           </div>
           <div className="right-side-content">
-            <p>Paper/Síntese/Slides/Portfólios/Resenhas.</p>
+            <p>Paper, Síntese, Slides, Portfólios, Resenhas.</p>
           </div>
         </div>
         <div className="left-side">

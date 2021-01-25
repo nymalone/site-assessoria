@@ -18,7 +18,7 @@
   height: 70px;
   width: 95%;
   background-color: rgba(235, 147, 33, 0.3);
-  margin-bottom: 25px;
+  margin-bottom: 20px;
   padding: 15px;
   border-top-right-radius: 10px;
   font-size: 20px;
@@ -30,6 +30,7 @@
 }
 .opening .left-side .left-side-img {
  width: 100%;
+ height: 426px;
 }
 
 @media only screen and (max-width: 480px) {
@@ -39,5 +40,9 @@
   .opening .right-side {
     grid-area: 1 / 3 / 1 / 1;
     text-align: center;
+  }
+
+  .opening .right-side .right-side-content{
+    height: auto;
   }
 }
